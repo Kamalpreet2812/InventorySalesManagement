@@ -1,1 +1,1 @@
-# InverntorySalesManagement
+# InventorySalesManagement
